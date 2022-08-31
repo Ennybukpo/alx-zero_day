@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 ALX School
-=======
 ALX school is so cool!
 git add .
 git commit -m 'Cool, all my changes will be now part of the main branch, ready to be deployed!'
@@ -8,6 +7,3 @@ git push
 git add .
 git commit -m 'Cool, all my changes will be now part of the main branch, ready to be deployed!'
 git push
-
-
->>>>>>> 36c58a4a8737b4ea13c7f00716111bb7b394162b
